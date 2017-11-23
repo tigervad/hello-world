@@ -1,2 +1,3 @@
 # hello-world
-this is hello world git repository
+hello there!
+i like coding and getting hands dirty with server less programming now.
